@@ -1,3 +1,0 @@
-Credits
-==================
-Author: Pentigan
